@@ -1,4 +1,5 @@
 <?php 
-echo "Hello World - Amrit Sharma - This is blue Green Deploymeny-edit by Binh Nguyen";
+echo "Hello, Binh Nguyen ";
+echo "This is blue Green Deployment";
 
 ?>
